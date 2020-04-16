@@ -1,0 +1,15 @@
+#st
+{
+	background-color: lightpink;
+	float:center;
+	width: 80%;
+}
+
+#vertical
+{
+	background-color: white;
+	float: left;
+	width: 20%;
+	height: 3000px;
+
+}
